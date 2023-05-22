@@ -1,0 +1,33 @@
+.field{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.mar{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.cont-Center{
+    display: flex;
+    justify-content: center;
+}
+.styleButton{
+
+    font-size:  20px;
+    color: white;
+    padding: 5px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:#0088ff;
+    border:0px;
+    border-radius: 20px;
+    
+}
+.container-header{
+    background-color:#debcffad;
+    border-radius: 20px;
+    padding: 3%;
+    margin: 20px;
+}
+body{
+    background-color:#D5AAFF;
+}
