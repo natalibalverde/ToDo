@@ -10,5 +10,3 @@ CREATE TABLE tasks(
 );
 
 SELECT * FROM tasks;
-
-DELETE  FROM tasks WHERE id>2;
